@@ -76,25 +76,6 @@ No installation, backend, or API keys are required.
 
 More detailed status information can reduce uncertainty, but stale or inaccurate updates can create false confidence. A production version should display only verified status information and clearly label estimates.
 
-## Screenshots and Demo
-
-After adding your files to the repository, use paths such as:
-
-- `assets/demo.gif`
-- `assets/before-after.png`
-- `assets/case-study.pdf`
-
-Embed the demo GIF like this:
-
-```md
-![INDmoney Transfer Tracker demo](assets/demo.gif)
-```
-
-## Built With
-
-- HTML
-- CSS
-- JavaScript
 
 ## Author's Note
 
